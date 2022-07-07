@@ -1,0 +1,20 @@
+.heading
+{
+font-size: 20px;
+font-style: italic;
+box-shadow:darkblue;
+}
+
+.copy_right_footer{
+    position:fixed;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    background-color:grey;
+    line-height: 3;
+    text-align:center;
+}
+
+.body_background{
+    background-image:url("abstract-scribble-icons-hand-drawn-doodle-coloring_179234-222.webp");
+}
